@@ -5,10 +5,14 @@
 
 - 🌱 I’m currently learning **Data Science**
 
+- 📝 I write some notes on [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram](https://aslan_mamadiev.t.me)
+
 - 📫 How to reach me **neckerson@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/aslan.mamadiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslan.mamadiev" height="30" width="40" /></a>
+<a href="https://aslanmamadiev.t.me" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="aslanmamadiev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
