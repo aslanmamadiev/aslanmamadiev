@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslanmamadiev&label=Profile%20views&color=0e75b6&style=flat" alt="aslanmamadiev" /> </p>
 
-- 🌱 I’m currently learning **Data Science on [SkillFactory](https://skillfactory.ru/data-scientist-pro)**
+- 🌱 I’m currently learning **Data Science** on **[SkillFactory](https://skillfactory.ru/data-scientist-pro)**
 
-- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (`on RU language`)
+- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (on <font style="color:#e5c07b;">RU</font> language)
 
 - 📫 How to reach me: **neckerson@yandex.com**
 
