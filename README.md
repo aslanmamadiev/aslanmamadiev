@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm <font style="color:#e5c07b;">Aslan Mamadiev!</font></h1>
 <h3 align="center">A DS-beginner</h3>
 
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslanmamadiev&label=Profile%20views&color=0e75b6&style=flat" alt="aslanmamadiev" /> </p>
 
@@ -9,6 +10,8 @@
 - 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (on <font style="color:#e5c07b;">RU</font> language)
 
 - 📫 How to reach me: **neckerson@yandex.com**
+
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif">
 
 <h3 style="color:#e5c07b;" align="left">Connect with me:</h3>
 <p align="left">
