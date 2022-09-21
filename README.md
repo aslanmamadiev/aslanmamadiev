@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science** on **[SkillFactory](https://skillfactory.ru/data-scientist-pro)**
 
-- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (on <font style="color:#e5c07b;">RU</font> language)
+- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (on <font style="color:#e5c07b;">[RU]</font> language)
 
 - 📫 How to reach me: **neckerson@yandex.com**
 
