@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science** on **[SkillFactory](https://skillfactory.ru/data-scientist-pro)**
 
-- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslan.mamadiev) and [Telegram-channel](https://aslan_mamadiev.t.me) (on <font style="color:#e5c07b;">[RU]</font> language)
+- 📝 I write some notes on blog in [Teletype](https://teletype.in/@aslanmamadiev) and [Telegram-channel](https://aslanmamadiev.t.me) (on <font style="color:#e5c07b;">[RU]</font> language)
 
 - 📫 How to reach me: **neckerson@yandex.com**
 
@@ -16,7 +16,7 @@
 <h3 style="color:#e5c07b;" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aslan.mamadiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslan.mamadiev" height="30" width="40" /></a>
-<a href="https://aslanmamadiev.t.me" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="aslanmamadiev" height="40" width="40" /></a>
+<a href="https://aslanxmamadiev.t.me" target="blank"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="aslanmamadiev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
